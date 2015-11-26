@@ -1,0 +1,9 @@
+﻿<UserControl
+	x:Class="PrismRegionIssue.LauncherView"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+	>
+    <Grid>
+        <Button Content="Show View B in the window commands next to View A" Click="OnButtonClick"/>
+    </Grid>
+</UserControl>
